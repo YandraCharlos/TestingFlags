@@ -3,7 +3,7 @@ deprecated_product_types:
     enabled: true
     disabled: false
   defaultRule:
-    variation: disabled
+    variation: enabled
   targeting:
     - query: product_type IN ["JUMBOPACK","JUMBOPACKH2H","OTOPACK150","OTOPACK250"]
       variation: enabled
