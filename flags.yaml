@@ -16,6 +16,6 @@ disable_booking_product_types_date:
 
 disable_tariff_product_types_date:
   variations:
-    date: "2025-09-22"
+    date: "2025-09-23"
   defaultRule:
     variation: date
